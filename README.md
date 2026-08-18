@@ -21,9 +21,8 @@ Os arquivos estão organizados por linguagem e módulo para facilitar a navegaç
 ┣ 📂 Python
 ┃ ┣ 📂 01-Iniciante
 ┃ ┃ ┗ 📜 hello_world.py
-┃ ┣ 📂 Projetos
-┃ ┃ ┗ 📜 calculadora.py
 ┣ 📂 Web_Development
 ┃ ┣ 📜 index.html
 ┃ ┗ 📜 style.css
-┗ 📜 README.md
+┃ 📜 README.md
+┗ 📜 Projetos
